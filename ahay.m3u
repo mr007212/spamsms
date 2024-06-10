@@ -29,10 +29,10 @@ http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
 #EXTINF:-1 group-title="DTV | Campuran" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",HBO 1
 #EXTVLCOPT:http-referrer=https://tv247.us
 https://live.tv247us.com/tv247/hbo.m3u8
-#EXTINF:-1 group-title="DTV | Campuran" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",PLUTO TV EXTREME
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed327f9e9b0000761141e/master.m3u8?appName=web&appVersion=unknown&clientTime=0
-#EXTINF:-1 group-title="DTV | Campuran" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",PLUTO TV POLAR
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ffebbeabd18520007b37709/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceD
+#EXTINF:-1 group-title="DTV | Campuran" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",FilmRise Redbox
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1 group-title="DTV | Campuran" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",Canal 21
+https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
 #EXTINF:-1 group-title="DTV | Campuran" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",PLUTO TV SPORTS
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6081310e48d3200007afaf3b/master.m3u8?appName=w
 #EXTINF:-1 group-title="DTV | Campuran" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",ROTANA M
