@@ -2,28 +2,28 @@
 
 ####### Live Radio
 
-#EXTINF:-1 group-title="DTV | Live" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png",JITV Jogja
+#EXTINF:-1 group-title="DTV | Live" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg",JITV Jogja
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" group-title="DTV | Live",Musica Studio
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" group-title="DTV | Live",Musica Studio
 https://livestream.zazerconer.workers.dev/channel/UCNlU3oSU8UnJ_V9uMB-cPOg.m3u8
 
-#EXTINF:-1 group-title="DTV | Live" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png",Retjo Buntung
+#EXTINF:-1 group-title="DTV | Live" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg",Retjo Buntung
 https://ssg.streamingmurah.com:9940/stream
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" group-title="DTV | Live",POP Musik
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" group-title="DTV | Live",POP Musik
 https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" group-title="DTV | Live",Maleo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" group-title="DTV | Live",Maleo
 https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" group-title="DTV | Live",NAGASWARA DANGDUT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" group-title="DTV | Live",NAGASWARA DANGDUT
 https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" group-title="DTV | Live",PMC 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" group-title="DTV | Live",PMC 
 https://hls.pmchd.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" group-title="DTV | Live",PMC Royale
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" group-title="DTV | Live",PMC Royale
 https://rohls.pmc.live/hls/stream.m3u8
 
 ######## Nasional TV
@@ -244,7 +244,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/VisionPrime/sa_dash_vmx/VisionPrim
 #KODIPROP:inputstream.adaptive.license_key=6935d1a7c21abca8907b1a7b63f2d2c9:1842c9b39c3558bb4c7dbb6e400561aa
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:0 group-title="DTV | Entertainment TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png",Anhui HD
+#EXTINF:0 group-title="DTV | Entertainment TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg",Anhui HD
 https://dsgtq5sngxkde.cloudfront.net/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
 #EXTINF:0 group-title="DTV | Entertainment TV" tvg-logo="https://www.dens.tv/images/channel-logo/38.jpg",ANIPLUS 
@@ -252,17 +252,17 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ANIPLUS_HD
 
-#EXTINF:0 group-title="DTV | Entertainment TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png",Crema.tv
+#EXTINF:0 group-title="DTV | Entertainment TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg",Crema.tv
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h202/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=crema.tv
 
-#EXTINF:0 group-title="DTV | Entertainment TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png",Dance TV
+#EXTINF:0 group-title="DTV | Entertainment TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg",Dance TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Dance_TV
 
-#EXTINF:0 group-title="DTV | Entertainment TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png",Deluxe Lounge
+#EXTINF:0 group-title="DTV | Entertainment TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg",Deluxe Lounge
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h172/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Deluxe_Lounge
@@ -271,28 +271,28 @@ http://op-group1-swiftservehd-1.dens.tv/h/h172/index.m3u8?app_type=web&amp;useri
 #KODIPROP:inputstream.adaptive.license_key=009a1278e0755ed82e70df01460e90c3:12d010a918431785676c4fd63ef648bd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:0 group-title="DTV | Entertainment TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png",FMM HD
+#EXTINF:0 group-title="DTV | Entertainment TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg",FMM HD
 https://dsgtq5sngxkde.cloudfront.net/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e9df1ff194224dd922a4ee50a083ea8:1f822977efb4700dfef3aef29ce53d98
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:0 group-title="DTV | Entertainment TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png",Hunan HD
+#EXTINF:0 group-title="DTV | Entertainment TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg",Hunan HD
 https://dsgtq5sngxkde.cloudfront.net/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab3b56e3b5bd35ee40d1f18a8e2a73f0:1ae67b4eeeb450fd430e3540694abc6a
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:0 group-title="DTV | Entertainment TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png",JiangsuTV HD
+#EXTINF:0 group-title="DTV | Entertainment TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg",JiangsuTV HD
 https://dsgtq5sngxkde.cloudfront.net/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bea88ab972e06760a04712cc423d841:4039d607f88f1b1f677e4beb6ee66637
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:0 group-title="DTV | Entertainment TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png",Music HD
+#EXTINF:0 group-title="DTV | Entertainment TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg",Music HD
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 #EXTINF:0 group-title="DTV | Entertainment TV" tvg-logo="https://www.dens.tv/images/channel-logo/75.jpg",NaDoo Commerce
@@ -305,7 +305,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h126/live.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NaDooKorean
 
-#EXTINF:0 group-title="DTV | Entertainment TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png",Stingray Classica
+#EXTINF:0 group-title="DTV | Entertainment TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg",Stingray Classica
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h229/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Stingray_Classica
@@ -314,7 +314,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h229/index2.m3u8?app_type=web&amp;user
 #KODIPROP:inputstream.adaptive.license_key=a8e1f7cdc8ed2515f795b3a8ff2713cb:36b8461eccdafbaa9ab41785123c9d36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:0 group-title="DTV | Entertainment TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png",XingKongTV HD
+#EXTINF:0 group-title="DTV | Entertainment TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg",XingKongTV HD
 https://dsgtq5sngxkde.cloudfront.net/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
 ######## Kids TV
@@ -336,7 +336,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-Ne
 #KODIPROP:inputstream.adaptive.license_key=194891b41223a5f1ec2beff1c95e2f53:eeb1fb2ec011f9563653495f9ac427b1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:0 group-title="DTV | Kids TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png",Cebebies HD
+#EXTINF:0 group-title="DTV | Kids TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg",Cebebies HD
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -661,7 +661,7 @@ http://op-group1-swiftservesd-1.dens.tv/s/s20/index.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h29/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CNA
 
-#EXTINF:0 group-title="DTV | News TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png",DIM TV
+#EXTINF:0 group-title="DTV | News TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg",DIM TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h232/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DIM_TV
@@ -747,7 +747,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=2fa7625e3470d5e9429f64150614f9a5:c495ad0e82e2266fd207934327c71ce3
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:0 group-title="DTV | Religi TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png",TV Muhammadiyah HD
+#EXTINF:0 group-title="DTV | Religi TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg",TV Muhammadiyah HD
 https://dsgtq5sngxkde.cloudfront.net/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
 
 
@@ -759,7 +759,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuham
 #EXTINF:0 group-title="DTV | Sports TV" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/fight_sports.png",Fight Sports HD
 https://dsgtq5sngxkde.cloudfront.net/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:0 group-title="DTV | Sports TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png",Fight Sports 
+#EXTINF:0 group-title="DTV | Sports TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg",Fight Sports 
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=FIGHT_SPORTS_HD
@@ -773,28 +773,28 @@ http://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8?app_type=web&amp;userid
 #KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:0 group-title="DTV | Sports TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png",Sports 1 HD
+#EXTINF:0 group-title="DTV | Sports TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg",Sports 1 HD
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:0 group-title="DTV | Sports TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png",Sports 2 HD
+#EXTINF:0 group-title="DTV | Sports TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg",Sports 2 HD
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:0 group-title="DTV | Sports TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png",Sports 3 HD
+#EXTINF:0 group-title="DTV | Sports TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg",Sports 3 HD
 https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:0 group-title="DTV | Sports TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png",Sports 4
+#EXTINF:0 group-title="DTV | Sports TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg",Sports 4
 https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #EXTINF:0 group-title="DTV | Sports TV" tvg-logo="https://www.dens.tv/images/channel-logo/120.jpg",Motor Racing TV
@@ -811,28 +811,28 @@ http://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&amp;userid=wn
 #KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:0 group-title="DTV | Sports TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png",Soccer Channel 1 HD
+#EXTINF:0 group-title="DTV | Sports TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg",Soccer Channel 1 HD
 https://dsgtq5sngxkde.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:0 group-title="DTV | Sports TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png",Soccer Channel 2 HD
+#EXTINF:0 group-title="DTV | Sports TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg",Soccer Channel 2 HD
 https://d1abp075u76pbq.cloudfront.net/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:0 group-title="DTV | Sports TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png",SPOTV 1 HD
+#EXTINF:0 group-title="DTV | Sports TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg",SPOTV 1 HD
 https://dsgtq5sngxkde.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:0 group-title="DTV | Sports TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png",SPOTV 2 HD
+#EXTINF:0 group-title="DTV | Sports TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg",SPOTV 2 HD
 https://dsgtq5sngxkde.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:0 group-title="DTV | Sports TV" tvg-logo="https://www.dens.tv/images/channel-logo/123.jpg",W-Sport
@@ -1052,199 +1052,199 @@ https://63b2dc7196c38.streamlock.net:1937/ch30/myStream/chunklist_w38627436.m3u8
 ####### Japan Sports
 #EXTM3U
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="JOAYDTV.jp",ABC
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="JOAYDTV.jp",ABC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="Animax.jp",Animax
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="Animax.jp",Animax
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="BSAsahi.jp",BS Asahi
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="BSAsahi.jp",BS Asahi
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="BSFuji.jp",BS Fuji TV
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="BSFuji.jp",BS Fuji TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="BSNipponTV.jp",BS Nippon TV
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="BSNipponTV.jp",BS Nippon TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="BSShochikuTokyu.jp",BS Shochiku Tokyu (1080p)
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="BSShochikuTokyu.jp",BS Shochiku Tokyu (1080p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="BSTBS.jp",BS TBS
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="BSTBS.jp",BS TBS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="BSTVTokyo.jp",BS TV Tokyo
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="BSTVTokyo.jp",BS TV Tokyo
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="CartoonNetwork.jp",Cartoon Network Japan (400p)
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="CartoonNetwork.jp",Cartoon Network Japan (400p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="ChannelGinga.jp",Channel Ginga (1080p)
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="ChannelGinga.jp",Channel Ginga (1080p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="CNNj.jp",CNNj
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="CNNj.jp",CNNj
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="DisneyChannel.jp",Disney Channel Japan
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="DisneyChannel.jp",Disney Channel Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="DisneyJunior.jp",Disney Junior
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="DisneyJunior.jp",Disney Junior
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="EiseiGekijo.jp",Eisei Gekijo
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="EiseiGekijo.jp",Eisei Gekijo
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="FamilyGekijyo.jp",Family Gekijo
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="FamilyGekijyo.jp",Family Gekijo
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="FishingVision.jp",Fishing Vision
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="FishingVision.jp",Fishing Vision
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="JOCXDTV.jp",Fuji TV
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="JOCXDTV.jp",Fuji TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="FujiTVNEXT.jp",Fuji TV NEXT
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="FujiTVNEXT.jp",Fuji TV NEXT
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="GAORASPORTS.jp",Gaora Sports
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="GAORASPORTS.jp",Gaora Sports
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="GolfNetwork.jp",Golf Network
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="GolfNetwork.jp",Golf Network
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="GreenChannel.jp",Green Channel
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="GreenChannel.jp",Green Channel
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="History.jp",History Channel Japan
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="History.jp",History Channel Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="HomeDramaChannel.jp",Home Drama Channel
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="HomeDramaChannel.jp",Home Drama Channel
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="JSPORTS1.jp",J Sports 1
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="JSPORTS1.jp",J Sports 1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="JSPORTS2.jp",J Sports 2
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="JSPORTS2.jp",J Sports 2
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="JSPORTS3.jp",J Sports 3
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="JSPORTS3.jp",J Sports 3
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="JSPORTS4.jp",J Sports 4
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="JSPORTS4.jp",J Sports 4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="JidaigekiSenmonChannel.jp",Jidaigeki Senmon
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="JidaigekiSenmonChannel.jp",Jidaigeki Senmon
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="JODXDTV.jp",Kansai TV
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="JODXDTV.jp",Kansai TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="KayoPops.jp",Kayo Pops
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="KayoPops.jp",Kayo Pops
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="KidsStation.jp",Kids Station
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="KidsStation.jp",Kids Station
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="LaLaTV.jp",LaLa TV
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="LaLaTV.jp",LaLa TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="JOOYDTV.jp",MBS
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="JOOYDTV.jp",MBS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="MONDOTV.jp",Mondo TV
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="MONDOTV.jp",Mondo TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="MoviePlus.jp",Movie Plus
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="MoviePlus.jp",Movie Plus
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="MTV.jp",MTV Japan
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="MTV.jp",MTV Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="MusicJapanTV.jp",Music Japan TV
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="MusicJapanTV.jp",Music Japan TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="NationalGeographic.jp",National Geographic Japan (1080p)
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="NationalGeographic.jp",National Geographic Japan (1080p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="NHKBS.jp",NHK BS
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="NHKBS.jp",NHK BS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="NHKBSP4K.jp",NHK BSP4K (1080p)
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="NHKBSP4K.jp",NHK BSP4K (1080p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="JOABDTV.jp",NHK E (Tokyo)
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="JOABDTV.jp",NHK E (Tokyo)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="JOBKDTV.jp",NHK G (Osaka)
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="JOBKDTV.jp",NHK G (Osaka)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="JOAKDTV.jp",NHK G (Tokyo)
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="JOAKDTV.jp",NHK G (Tokyo)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="NihonEigaSenmonChannel.jp",Nihon Eiga Senmon
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="NihonEigaSenmonChannel.jp",Nihon Eiga Senmon
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="JOAXDTV.jp",Nippon TV
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="JOAXDTV.jp",Nippon TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="NitteleGPlus.jp",Nittele G Plus
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="NitteleGPlus.jp",Nittele G Plus
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="SkyA.jp",Sky A
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="SkyA.jp",Sky A
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="SpaceShowerTV.jp",Space Shower TV
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="SpaceShowerTV.jp",Space Shower TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="StarChannel1.jp",Star 1
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="StarChannel1.jp",Star 1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="StarChannel2.jp",Star 2
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="StarChannel2.jp",Star 2
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="StarChannel3.jp",Star 3
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="StarChannel3.jp",Star 3
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="JOUHDTV.jp",Sun TV
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="JOUHDTV.jp",Sun TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="TABIChannel.jp",Tabi Channel
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="TABIChannel.jp",Tabi Channel
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="TAKARAZUKASKYSTAGE.jp",TAKARAZUKA SKY STAGE (1080p)
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="TAKARAZUKASKYSTAGE.jp",TAKARAZUKA SKY STAGE (1080p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="JORXDTV.jp",TBS
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="JORXDTV.jp",TBS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="TBSNewsCS.jp",TBS News
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="TBSNewsCS.jp",TBS News
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="ToeiChannel.jp",Toei Channel (1080p)
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="ToeiChannel.jp",Toei Channel (1080p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="JOMXDTV.jp",Tokyo MX1
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="JOMXDTV.jp",Tokyo MX1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="JOEXDTV.jp",TV Asahi
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="JOEXDTV.jp",TV Asahi
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="JOBHDTV.jp",TV Osaka
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="JOBHDTV.jp",TV Osaka
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="JOTXDTV.jp",TV Tokyo
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="JOTXDTV.jp",TV Tokyo
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="WOWOWCinema.jp",WOWOW Cinema
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="WOWOWCinema.jp",WOWOW Cinema
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="WOWOWLive.jp",WOWOW Live
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="WOWOWLive.jp",WOWOW Live
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="WOWOWPrime.jp",WOWOW Prime
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="WOWOWPrime.jp",WOWOW Prime
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
 
-#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" tvg-id="JOIXDTV.jp",YTV
+#EXTINF:-1 group-title="DTV | Japan" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" tvg-id="JOIXDTV.jp",YTV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
 
 
@@ -1383,16 +1383,16 @@ http://295546051112165407.ofk0601.xyz:80/play/3FQLU9E74S/MyxddsYEnF6/165407.ts
 #EXTINF:-1 tvg-logo="https://osobogey.com/wp-content/uploads/2021/05/Logos-LaLigaSportsTV_h_Mesa-de-trabajo-1.png" group-title="DTV | M+ LALIGA",LALIGA+ FHD
 http://295546051112660537.ofk0601.xyz:80/play/3FQLU9E74S/MyxddsYEnF6/660537.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" group-title="DTV | M+ LALIGA",M LALIGA SMARTBANK 1 FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" group-title="DTV | M+ LALIGA",M LALIGA SMARTBANK 1 FHD
 http://295546051112325771.ofk0601.xyz:80/play/3FQLU9E74S/MyxddsYEnF6/325771.ts
 
 #EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" group-title="DTV | M+ LALIGA",M LALIGA SMARTBANK 1 HD
 http://295546051112320790.ofk0601.xyz:80/play/3FQLU9E74S/MyxddsYEnF6/320790.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" group-title="DTV | M+ LALIGA",M LALIGA SMARTBANK 1 SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" group-title="DTV | M+ LALIGA",M LALIGA SMARTBANK 1 SD
 http://295546051112325772.ofk0601.xyz:80/play/3FQLU9E74S/MyxddsYEnF6/325772.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" group-title="DTV | M+ LALIGA",M LALIGA SMARTBANK 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" group-title="DTV | M+ LALIGA",M LALIGA SMARTBANK 2 HD
 http://295546051112329115.ofk0601.xyz:80/play/3FQLU9E74S/MyxddsYEnF6/329115.ts
 
 #EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-smartbank-v/laliga-smartbank-v-300x300.png" group-title="DTV | M+ LALIGA",M LALIGA SMARTBANK FHD
@@ -1519,7 +1519,7 @@ http://295546051112282465.ofk0601.xyz:80/play/3FQLU9E74S/MyxddsYEnF6/282465.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-8-es.png" group-title="DTV | M+ LIGA DE CAMPEONES",LIGA DE CAMPEONES 8 HD
 http://295546051112282466.ofk0601.xyz:80/play/3FQLU9E74S/MyxddsYEnF6/282466.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" group-title="DTV | M+ LIGA DE CAMPEONES",LIGA DE CAMPEONES 9 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" group-title="DTV | M+ LIGA DE CAMPEONES",LIGA DE CAMPEONES 9 HD
 http://295546051112631350.ofk0601.xyz:80/play/3FQLU9E74S/MyxddsYEnF6/631350.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="DTV | M+ LIGA DE CAMPEONES",LIGA DE CAMPEONES FHD
@@ -1569,72 +1569,72 @@ http://295546051112290352.ofk0601.xyz:80/play/3FQLU9E74S/MyxddsYEnF6/290352.ts
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ESP2" group-title="DTV | EUROSPORT",EUROSPORT 2 SD
 http://295546051112290353.ofk0601.xyz:80/play/3FQLU9E74S/MyxddsYEnF6/290353.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" group-title="DTV | EUROSPORT",EUROSPORT 4 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" group-title="DTV | EUROSPORT",EUROSPORT 4 HD
 http://295546051112290354.ofk0601.xyz:80/play/3FQLU9E74S/MyxddsYEnF6/290354.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" group-title="DTV | EUROSPORT",EUROSPORT 5 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" group-title="DTV | EUROSPORT",EUROSPORT 5 HD
 http://295546051112290355.ofk0601.xyz:80/play/3FQLU9E74S/MyxddsYEnF6/290355.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" group-title="DTV | EUROSPORT",EUROSPORT 6 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" group-title="DTV | EUROSPORT",EUROSPORT 6 HD
 http://295546051112290356.ofk0601.xyz:80/play/3FQLU9E74S/MyxddsYEnF6/290356.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" group-title="DTV | EUROSPORT",EUROSPORT 7 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" group-title="DTV | EUROSPORT",EUROSPORT 7 HD
 http://295546051112290783.ofk0601.xyz:80/play/3FQLU9E74S/MyxddsYEnF6/290783.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" group-title="DTV | EUROSPORT",EUROSPORT 8 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" group-title="DTV | EUROSPORT",EUROSPORT 8 HD
 http://295546051112290357.ofk0601.xyz:80/play/3FQLU9E74S/MyxddsYEnF6/290357.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" group-title="DTV | EUROSPORT",EUROSPORT 9 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" group-title="DTV | EUROSPORT",EUROSPORT 9 HD
 http://295546051112290784.ofk0601.xyz:80/play/3FQLU9E74S/MyxddsYEnF6/290784.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" group-title="DTV | EUROSPORT",FOX SOCCER PLUS HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" group-title="DTV | EUROSPORT",FOX SOCCER PLUS HD
 http://295546051112807009.ofk0601.xyz:80/play/3FQLU9E74S/MyxddsYEnF6/807009.ts
 
 ####### Liga Arab SSC
-#EXTINF:-1 group-title="DTV | Liga Arab" tvg-id="SSC 1" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png",SSC 1
+#EXTINF:-1 group-title="DTV | Liga Arab" tvg-id="SSC 1" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg",SSC 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
-#EXTINF:-1 group-title="DTV | Liga Arab" tvg-id="SSC 1" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png",SSC 2
+#EXTINF:-1 group-title="DTV | Liga Arab" tvg-id="SSC 1" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg",SSC 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
 https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
 
-#EXTINF:-1 group-title="DTV | Liga Arab" tvg-id="SSC 1" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png",SSC 3
+#EXTINF:-1 group-title="DTV | Liga Arab" tvg-id="SSC 1" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg",SSC 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
 https://ssc3-ak.akamaized.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
 
-#EXTINF:-1 group-title="DTV | Liga Arab" tvg-id="SSC 1" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png",SSC 4
+#EXTINF:-1 group-title="DTV | Liga Arab" tvg-id="SSC 1" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg",SSC 4
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=469898&extension=ts
 
-#EXTINF:-1 group-title="DTV | Liga Arab" tvg-id="SSC 1" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png",SSC 5
+#EXTINF:-1 group-title="DTV | Liga Arab" tvg-id="SSC 1" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg",SSC 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888
 https://ssc5-ak.akamaized.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
 
-#EXTINF:-1 group-title="DTV | Liga Arab" tvg-id="SSC 1" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png",SSC exrtra 1
+#EXTINF:-1 group-title="DTV | Liga Arab" tvg-id="SSC 1" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg",SSC exrtra 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
 https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
 
-#EXTINF:-1 group-title="DTV | Liga Arab" tvg-id="SSC EXTRA 2" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png",SSC EXTRA 2
+#EXTINF:-1 group-title="DTV | Liga Arab" tvg-id="SSC EXTRA 2" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg",SSC EXTRA 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
 https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
 
-#EXTINF:-1 group-title="DTV | Liga Arab" tvg-id="SSC EXTRA 3" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png",SSC EXTRA 3
+#EXTINF:-1 group-title="DTV | Liga Arab" tvg-id="SSC EXTRA 3" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg",SSC EXTRA 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
 https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
 
-#EXTINF:-1 group-title="DTV | Liga Arab" tvg-id="SSC EXTRA 3" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png",SSC NEWS
+#EXTINF:-1 group-title="DTV | Liga Arab" tvg-id="SSC EXTRA 3" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg",SSC NEWS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d04975236a44f62857d181597705ee6:362133e9cb13189ad4fe095ced216f60
 https://ssc-news-live-ak.akamaized.net/out/v1/ef466f43623c4bbaa3f905b566ec35ea/index.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/1718024420-picsay.png" group-title="DTV | Liga Arab",Sport 1D
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.pngg" group-title="DTV | Liga Arab",Sport 1D
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-022/stream.mpd
@@ -9333,6 +9333,9 @@ http://cord-cutter.net:8080/movie/sY6kSEQnpF/YciGw9rYxJ/207284.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j1xiNhRJiyQiGMERtKNyTNRCBNm.jpg" group-title="DTV | Movies 2023",Zombie Town
 http://cord-cutter.net:8080/movie/sY6kSEQnpF/YciGw9rYxJ/210732.mp4 
+
+
+
 
 
 
