@@ -2,7 +2,7 @@
 
 
 ########## GermanyTV
-#EXTINF:-2 group-title="DTV | Live" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",EuroAl
+#EXTINF:-2 group-title="DTV | GermanyTV" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",EuroAl
 http://5.135.92.131:1935/live/euroAl/playlist.m3u8
 
 
