@@ -8,6 +8,13 @@ https://bloomberg-bloomberg-3-br.samsung.wurl.tv/manifest/playlist.m3u8
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-2 group-title="DTV | Campuran" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",Tastemade Brasil (1080p)
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-2 group-title="DTV | Campuran" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",Wonder TV
+https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-2 group-title="DTV | Campuran" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",Rakuten TV Familly Movie
+https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-2 group-title="DTV | Campuran" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",HBO PLUS
+http://170.254.18.106/HBO_PLUS/index.m3u8
+
 
 
 ####### Live Radio
