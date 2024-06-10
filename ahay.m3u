@@ -2,19 +2,19 @@
 
 
 ####### GermanyTV
-#EXTINF:-1 group-title="DTV | Live" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",JITV Jogja
-https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
+#EXTINF:-2 group-title="DTV | Live" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",EuroAl
+http://5.135.92.131:1935/live/euroAl/playlist.m3u8
 
 
 
 ####### Live Radio
 
 #EXTINF:-1 group-title="DTV | Live" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",JITV Jogja
-http://5.135.92.131:1935/live/euroAl/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png" group-title="DTV | Live",Musica Studio
 https://livestream.zazerconer.workers.dev/channel/UCNlU3oSU8UnJ_V9uMB-cPOg.m3u8
-
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
 #EXTINF:-1 group-title="DTV | Live" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",Retjo Buntung
 https://ssg.streamingmurah.com:9940/stream
 
