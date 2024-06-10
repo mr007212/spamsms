@@ -2,11 +2,11 @@
 
 
 ########## Campuran
-#EXTINF:-2 group-tite="DTV | Campuran" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",Bloomberg TV US (1080p)
+#EXTINF:-2 group-title="DTV | Campuran" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",Bloomberg TV US (1080p)
 https://bloomberg-bloomberg-3-br.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-2 group-tite="DTV | Campuran" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",MyTime Movie Network Brazil (720p)
+#EXTINF:-2 group-title="DTV | Campuran" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",MyTime Movie Network Brazil (720p)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-2 group-tite="DTV | Campuran" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",Tastemade Brasil (1080p)
+#EXTINF:-2 group-title="DTV | Campuran" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",Tastemade Brasil (1080p)
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 
 
