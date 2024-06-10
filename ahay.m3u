@@ -14,6 +14,33 @@ https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
 https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-2 group-title="DTV | Campuran" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",HBO PLUS
 http://170.254.18.106/HBO_PLUS/index.m3u8
+#EXTINF:-2 group-title="DTV | Campuran" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",AXN
+http://170.254.18.106/AXN/index.m3u8
+#EXTINF:-2 group-title="DTV | Campuran" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",HBO EXTREME
+http://170.254.18.106/HBO_XTREME/index.m3u8
+#EXTINF:-2 group-title="DTV | Campuran" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",HBO SIGNATURE
+http://170.254.18.106/HBO_SIG/index.m3u8
+#EXTINF:-2 group-title="DTV | Campuran" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",CINEMAX LATIN
+http://170.254.18.106/CINEMAX/index.m3u8
+#EXTINF:-2 group-title="DTV | Campuran" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",START CH
+http://170.254.18.106/STAR/index.m3u8
+#EXTINF:-2 group-title="DTV | Campuran" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",PRIME CANADA TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
+#EXTINF:-2 group-title="DTV | Campuran" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",HBO 1
+#EXTVLCOPT:http-referrer=https://tv247.us
+https://live.tv247us.com/tv247/hbo.m3u8
+#EXTINF:-2 group-title="DTV | Campuran" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",PLUTO TV EXTREME
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed327f9e9b0000761141e/master.m3u8?appName=web&appVersion=unknown&clientTime=0
+#EXTINF:-2 group-title="DTV | Campuran" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",PLUTO TV POLAR
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ffebbeabd18520007b37709/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceD
+#EXTINF:-2 group-title="DTV | Campuran" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",PLUTO TV SPORTS
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6081310e48d3200007afaf3b/master.m3u8?appName=w
+#EXTINF:-2 group-title="DTV | Campuran" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",ROTANA M
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c926b44e3f020008e19112/master.m3u8?appName=web&appVersion=unknown&cli
+#EXTINF:-2 group-title="DTV | Campuran" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",Real Madrid TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65f96c0c2873090008d356d1/master.m3u8?appName=web&appVersion=unknown&cli
+
+
 
 
 
