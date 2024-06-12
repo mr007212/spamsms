@@ -1,8 +1,8 @@
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml"
 
 
-########## Campuran
-#EXTINF:-1 group-title="DTV | Campuran" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",PEMASANGAN TV ANDROID
+########## DTV
+#EXTINF:-2 group-title="DTV | Pemasangan TV Android" tvg-logo=" https://raw.githubusercontent.com/mr007212/spamsms/main/hm-picsay.png",PEMASANGAN TV ANDROID
 http://31.148.48.15:80/O-la-la/index.m3u8
 
 
