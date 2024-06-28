@@ -578,7 +578,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeo
 #KODIPROP:inputstream.adaptive.license_key=a8e1f7cdc8ed2515f795b3a8ff2713cb:36b8461eccdafbaa9ab41785123c9d36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/pikotv.png",XingKongTV HD
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/DTV_LOGO.png",XingKongTV HD
 https://dsgtq5sngxkde.cloudfront.net/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
 
