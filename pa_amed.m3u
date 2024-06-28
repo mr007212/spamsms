@@ -587,10 +587,18 @@ http://tv14s.xyz:8080/753468/894568/57292
 #EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png",CA TSN 2 (R)
 http://tv14s.xyz:8080/753468/894568/16129
 
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/DTV_LOGO.png",Fox Sport 1
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/509106
 
 
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/DTV_LOGO.png",Fox Sport 2
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/509107
 
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/DTV_LOGO.png",TYC Sport
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/418166
 
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/DTV_LOGO.png",Euro Sport
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/360767
 
 
 
