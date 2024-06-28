@@ -553,11 +553,34 @@ http://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&amp;userid
 #EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/zee_bioskop.png",Zee Bioskop HD
 https://dsgtq5sngxkde.cloudfront.net/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
-#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Tv5sports.png",Cbs Sport Network
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/509089
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6344a8272809245e3fa9d926099528c3:93b6c4ff420c6864a6294f6d223d9b2c
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/animax.png",Kids Animax HD
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://cdn.worldvectorlogo.com/logos/canal-sport-1.svg",Canal+ Sport
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/592603
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f71ca09f57ea09e27ee63d7d1f0d0e31:8a07ef45b4a18973ef12f8da482dcec0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/nick_jr.png",Kids Nick jr HD
+https://dsgtq5sngxkde.cloudfront.net/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=785024598882dc751652cea2bce44b8e:56a40e58acd59965e865947dd719108d
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/nickelodeon.png",Kids Nickelodeon HD
+https://dsgtq5sngxkde.cloudfront.net/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8e1f7cdc8ed2515f795b3a8ff2713cb:36b8461eccdafbaa9ab41785123c9d36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/pikotv.png",XingKongTV HD
+https://dsgtq5sngxkde.cloudfront.net/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
+
 
 
 
