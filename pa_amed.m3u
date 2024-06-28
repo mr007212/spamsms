@@ -581,6 +581,11 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeo
 #EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://raw.githubusercontent.com/mr007212/spamsms/main/DTV_LOGO.png",XingKongTV HD
 https://dsgtq5sngxkde.cloudfront.net/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png",CA TSN 1 (E)
+http://tv14s.xyz:8080/753468/894568/57292
+
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://pbs.twimg.com/profile_images/2763584720/a7abe58518e68500a7a4bf509fbd903c.png",CA TSN 2 (R)
+http://tv14s.xyz:8080/753468/894568/16129
 
 
 
