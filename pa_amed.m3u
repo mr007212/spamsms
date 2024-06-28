@@ -553,8 +553,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&amp;userid
 #EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/zee_bioskop.png",Zee Bioskop HD
 https://dsgtq5sngxkde.cloudfront.net/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
-#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/zee_bioskop.png",5Sport UHD/4K
-http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/592564
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Tv5sports.png",Cbs Sport Network
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/509089
+
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://cdn.worldvectorlogo.com/logos/canal-sport-1.svg",Canal+ Sport
+http://defaultgen.com:3050/somedork@gmail.com/KEwkZV6Kmf/592603
+
+
 
 
 
