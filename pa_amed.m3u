@@ -620,22 +620,17 @@ http://xtv.ooo:8080/MansoorWapda/258741/350972
 #EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR no acak 2 Live Event
 http://xtv.ooo:8080/owais1/12345/350972
 
-#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR no acak 1 Live Event
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR no acak 3 Live Event
 http://iptvtree.net:8080/e891d265/89d742c3/162138
 
-#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg",beIN Sports 1 
-http://filex.tv:8080/paramjeetsingh/002818/29085
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/a/a0/Moji_%282022_Blue%29.svg/revision/latest/scale-to-width-down/240?cb=20230210151006", Moji TV
+http://filex.tv:8080/paramjeetsingh/002818/302279
 
-#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg", beIN Sports 3
-http://filex.tv:8080/paramjeetsingh/002818/290858
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0YmTFQ93JInOmf7eHwzA4fsBsP2Tp92IxAQ&s", RCTI Sport
+http://filex.tv:8080/paramjeetsingh/002818/302297
 
-#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg", One Sports 
-http://filex.tv:8080/paramjeetsingh/002818/290887 
-
-#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg", One Sports + 
-http://filex.tv:8080/paramjeetsingh/002818/290888 
-
-
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/2/2d/MNC_Sports_%282011%29.png/revision/latest?cb=20210709124327", MNC Sport
+http://filex.tv:8080/paramjeetsingh/002818/302278
 
 
 
