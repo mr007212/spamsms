@@ -623,5 +623,19 @@ http://xtv.ooo:8080/owais1/12345/350972
 #EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR no acak 1 Live Event
 http://iptvtree.net:8080/e891d265/89d742c3/162138
 
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg",beIN Sports 1 
+http://filex.tv:8080/paramjeetsingh/002818/29085
+
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg", beIN Sports 3
+http://filex.tv:8080/paramjeetsingh/002818/290858
+
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg", One Sports 
+http://filex.tv:8080/paramjeetsingh/002818/290887 
+
+#EXTINF:0 group-title="DTV | Doni TV" tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg", One Sports + 
+http://filex.tv:8080/paramjeetsingh/002818/290888 
+
+
+
 
 
